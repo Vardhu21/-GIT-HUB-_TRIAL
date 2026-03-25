@@ -10,7 +10,7 @@ This repository is created as part of GitHub workshop submission.
 
 ## 📂 Contents
 - README.md
-- character_analysis.c
+- PROGRAMM.c
 
 ## 🔗 Submission
 This repository is submitted for evaluation.
